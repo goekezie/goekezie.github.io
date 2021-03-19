@@ -10,6 +10,8 @@ My name is **Ekezie Gibson**, highly skilled and motivated Cloud/Linux enthusias
 
 I'm very good with aws & azure platforms. I'm familiar with tools like github, terraform, docker, k8s & cloudformation.
 
+Programming Languages: HTML, css, javascript, Python & Django
+
 ## CERTIFICATIONS
 * [Microsoft Certified: DevOps Engineer Expert](https://www.youracclaim.com/badges/715260e0-7d2a-42c1-9337-9970c8338854/public_url)
 * [Microsoft Certified: Azure Administrator Associate](https://www.youracclaim.com/badges/f4ffdcd6-d730-41c1-be88-b697b3362efc/public_url)
