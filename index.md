@@ -17,7 +17,7 @@ CI/CD Pipelines built for python-based application. Code for sample application 
 **[CI/CD Pipelines for Django](https://github.com/goekezie/theCommitted/tree/main/Django-app){:target="_blank"}**
 
 
-## .Net-App
+## .NET-App
 
 CI/CD Pipelines built for .Net application. Code for sample application can be found [here](https://github.com/goekezie/mslearn-tailspin-spacegame-web){:target="_blank"}
  
