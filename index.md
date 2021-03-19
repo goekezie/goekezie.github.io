@@ -7,7 +7,7 @@ layout: home
 
 
 ### _Projects_
-This project consist of several CI/CD pipelines I built for different sample application using github, jenkins, azuredevops and aws codepipeline
+These projects consist of several CI/CD pipelines I built for different sample application using github, jenkins, azuredevops and aws codepipeline
 
 
 ## Django-App
