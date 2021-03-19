@@ -6,40 +6,29 @@ layout: home
 ---
 
 
-## Projects
+### _Projects_
+This project consist of several CI/CD pipelines I built for different sample application using github, jenkins, azuredevops and aws codepipeline
 
-You can use the [editor on GitHub](https://github.com/goekezie/goekezie.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Django-App
 
-### Markdown
+CI/CD Pipelines built for python-based application. Code for sample application can be found [here](https://github.com/goekezie/djangoSampleApp){:target="_blank"}
+ 
+**[CI/CD Pipelines for Django](https://github.com/goekezie/theCommitted/tree/main/Django-app){:target="_blank"}**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## .Net-App
 
-# Header 1
-## Header 2
-### Header 3
+CI/CD Pipelines built for .Net application. Code for sample application can be found [here](https://github.com/goekezie/mslearn-tailspin-spacegame-web){:target="_blank"}
+ 
+**[CI/CD Pipelines for .NET](https://github.com/goekezie/theCommitted/tree/main/Net-app){:target="_blank"}**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Java-App
 
-**Bold** and _Italic_ and `Code` text
+CI/CD Pipelines built for java application. Code for sample application can be found [here](https://github.com/goekezie/javasample){:target="_blank"}
+ 
+**[CI/CD Pipelines for java](https://github.com/goekezie/theCommitted/tree/main/Java-app){:target="_blank"}**
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goekezie/goekezie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
