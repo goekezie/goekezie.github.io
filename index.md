@@ -7,7 +7,7 @@ layout: home
 
 
 ### _Projects_
-These projects consist of several CI/CD pipelines I built for different sample applications using github workflow, jenkins, terraform, azuredevops and aws codepipeline
+These projects consist of several CI/CD pipelines I built for different sample applications using github workflow, jenkins, terraform, azuredevops & aws codepipeline
 
 
 ## Django-App
