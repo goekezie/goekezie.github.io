@@ -6,7 +6,7 @@ permalink: /about/
 
  ![Photo](/images/me22.jpg)
 
-My name is **Ekezie .O. Gibson**, highly skilled and motivated Cloud/Linux enthusiast, who loves to take initiatives and seek out new challenges. I'm available for opportunities as a DevOps Engineer, Cloud Infrastructure Engineer or a Solutions Architect.
+My name is **Ekezie .O. Gibson**, highly skilled Cloud/Linux enthusiast, who loves to take initiatives and seek out new challenges. I'm available for opportunities as a DevOps Engineer, Cloud Infrastructure Engineer or a Solutions Architect.
 
 I'm very good with aws & azure platforms. I'm familiar with tools like github, terraform, docker, k8s & cloudformation.
 
