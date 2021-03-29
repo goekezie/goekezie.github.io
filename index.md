@@ -19,7 +19,7 @@ These are the projects I'm working on;
 
 
 
-###### So.. this project was inspired by a very popular book I read **Show Your work** by **_Austin Kleon_**, amazing stuff. You can check out my library [here](https://drive.google.com/drive/folders/11VaGywrocBCWn3j5GuYqkMjLkG1dLqWm?usp=sharing){:target="_blank"}, I try my best to update it.
+##### _So.. this project was inspired by a very popular book I read **Show Your work** by **Austin Kleon**, amazing stuff. You can check out my library_ [here](https://drive.google.com/drive/folders/11VaGywrocBCWn3j5GuYqkMjLkG1dLqWm?usp=sharing){:target="_blank"}.
 
 
 
