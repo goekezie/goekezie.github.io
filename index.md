@@ -7,28 +7,16 @@ layout: home
 
 
 ### _Projects_
-These projects consist of several CI/CD pipelines I built for different sample applications using github workflow, jenkins, terraform, azuredevops & aws codepipeline
+These are the projects I'm working on;
+
+* This repo consist of several CI/CD pipelines I built & still building for different sample applications like django application, java application, .Net etc; using tools like github workflow, jenkins, terraform, cloudformation, azuredevops & aws codepipeline. 
+[Link to Repo](https://github.com/goekezie/theCommitted){:target="_blank"}
+
+* This repo consist of some common scalable application architecture I setup on azure & aws platforms using diffrent microservices.
+[Link to Repo](https://github.com/goekezie/CloudArchitecture){:target="_blank"}
 
 
-## Django-App
-
-CI/CD Pipelines built for python-based application. Code for sample application can be found [here](https://github.com/goekezie/djangoSampleApp){:target="_blank"}
- 
-**[CI/CD Pipelines for Django](https://github.com/goekezie/theCommitted/tree/main/Django-app){:target="_blank"}**
-
-
-## .NET-App
-
-CI/CD Pipelines built for .Net application. Code for sample application can be found [here](https://github.com/goekezie/mslearn-tailspin-spacegame-web){:target="_blank"}
- 
-**[CI/CD Pipelines for .NET](https://github.com/goekezie/theCommitted/tree/main/Net-app){:target="_blank"}**
-
-
-## Java-App
-
-CI/CD Pipelines built for java application. Code for sample application can be found [here](https://github.com/goekezie/javasample){:target="_blank"}
- 
-**[CI/CD Pipelines for java](https://github.com/goekezie/theCommitted/tree/main/Java-app){:target="_blank"}**
+So.. this project was inspired by a very popular book I read **Show Your work** by **_Austin Kleon_**, amazing stuff. You can check out my library [here](https://drive.google.com/drive/folders/11VaGywrocBCWn3j5GuYqkMjLkG1dLqWm?usp=sharing){:target="_blank"}, I try my best to update it.
 
 
 
