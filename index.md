@@ -10,10 +10,10 @@ layout: home
 These are the projects I'm working on;
 
 * This repo consist of several CI/CD pipelines I built & still building for different sample applications like django application, java application, .Net etc; using tools like github workflow, jenkins, terraform, cloudformation, azuredevops & aws codepipeline. 
-[Link to Repo](https://github.com/goekezie/theCommitted){:target="_blank"}
+**[Link to Repo](https://github.com/goekezie/theCommitted){:target="_blank"}**
 
 * This repo consist of some common scalable application architecture I setup on azure & aws platforms using diffrent microservices.
-[Link to Repo](https://github.com/goekezie/CloudArchitecture){:target="_blank"}
+**[Link to Repo](https://github.com/goekezie/CloudArchitecture){:target="_blank"}**
 
 
 
