@@ -6,11 +6,7 @@ permalink: /about/
 
  ![Photo](/images/me22.jpg)
 
-My name is **Ekezie .O. Gibson**, highly skilled Cloud/Linux enthusiast, who loves to take initiatives and seek out new challenges. I'm available for opportunities as a DevOps Engineer, Cloud Infrastructure Engineer or a Solutions Architect.
-
-I'm very good with aws & azure platforms. I'm familiar with tools like github, terraform, docker, k8s & cloudformation.
-
-Programming Languages: HTML, css, javascript, Python & Django
+Heyyy I'm **Gibson**, a highly skilled Cloud/Linux enthusiast. I'm actively learning and also very good with aws & azure platforms. I'm familiar with tools like github, jenkins, terraform, docker, k8s and cloudformation. I'm good with python specifically django framework, you can check out my Replit profile [here](https://replit.com/@OnyekachukwuEke){:target="_blank"} and have a sound knowledge of basic programming languages like HTML, css & js.
 
 ## CERTIFICATIONS
 * [Microsoft Certified: DevOps Engineer Expert](https://www.youracclaim.com/badges/715260e0-7d2a-42c1-9337-9970c8338854/public_url)
