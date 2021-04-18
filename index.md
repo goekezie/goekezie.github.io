@@ -21,7 +21,7 @@ This project is a documentation of my #100daysofcloud journey;
 
 
 
-##### _So.. this project was inspired by a very popular book I read **Show Your work** by **Austin Kleon**, amazing stuff. You can check out my library [here](https://drive.google.com/drive/folders/11VaGywrocBCWn3j5GuYqkMjLkG1dLqWm?usp=sharing){:target="_blank"}_.
+##### _This project was inspired by a very popular book I read **Show Your work** by **Austin Kleon**, amazing stuff. You can check out my library [here](https://drive.google.com/drive/folders/11VaGywrocBCWn3j5GuYqkMjLkG1dLqWm?usp=sharing){:target="_blank"}_.
 
 
 
