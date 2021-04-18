@@ -7,7 +7,7 @@ layout: home
 
 
 ### _Projects_
-These are the projects is a documentation of my #100daysofcloud;
+This project is a documentation of my #100daysofcloud journey;
 
 * This repo consist of several CI/CD pipelines I built for different sample applications like django application, java application, .Net etc; using tools like github workflow, jenkins, terraform, cloudformation, azuredevops & aws codepipeline. 
 **[Link to Repo](https://github.com/goekezie/theCommitted){:target="_blank"}**
