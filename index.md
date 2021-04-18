@@ -7,7 +7,7 @@ layout: home
 
 
 ### _Projects_
-These are the projects I'm working on;
+These are the projects is a documentation of my #100daysofcloud;
 
 * This repo consist of several CI/CD pipelines I built for different sample applications like django application, java application, .Net etc; using tools like github workflow, jenkins, terraform, cloudformation, azuredevops & aws codepipeline. 
 **[Link to Repo](https://github.com/goekezie/theCommitted){:target="_blank"}**
@@ -15,6 +15,8 @@ These are the projects I'm working on;
 * This repo consist of application architectures I built on azure & aws platforms with different microservices using automation tools like terrform & cloudFormation.
 **[Link to Repo](https://github.com/goekezie/CloudArchitecture){:target="_blank"}**
 
+* This repo consist of lambda and azure functions i wrote using python.
+**[Link to Repo](https://github.com/goekezie/azfunctionslambda.git){:target="_blank"}**
 
 
 
