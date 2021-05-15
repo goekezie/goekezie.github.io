@@ -13,3 +13,4 @@ Heyyy I'm **Gibson .O. Ekezie**, a skilled Cloud/Linux enthusiast. I'm actively 
 * [Microsoft Certified: Azure Administrator Associate](https://www.youracclaim.com/badges/f4ffdcd6-d730-41c1-be88-b697b3362efc/public_url)
 * [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/77b9b49b-b737-46e8-a778-a1595ac08596/public_url)
 * [CCNA](https://www.youracclaim.com/badges/3ac2243b-0905-4fd6-99fc-749fb4c78399/public_url)
+* [Certified Kubernetes Administrator](https://www.credly.com/badges/26da8525-7072-4804-9e9d-77ac3c6add86/public_url)
